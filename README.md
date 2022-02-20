@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunnybalog
 - 👀 I’m interested in new Tech roles or project
-- 🌱 I have working experience in Python, Front-end  and Cloud tech.
+- 🌱 I have working experience in Python, Front-end  and Cloud tech (70% gcloud, 30% aws).
 - 💞️ I’m looking to collaborate both Physically and Remotely on Android dev, Cloud and Tech projects that makes life easier for mankind.
 - 📫 Reach out: sunnybalog@yahoo.com
 
